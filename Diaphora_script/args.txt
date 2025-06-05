@@ -1,0 +1,2 @@
+/dev/shm/ida_wu0clze8/after_sock_map.o.sqlite
+/dev/shm/ida_wu0clze8/before_sock_map.o.sqlite
